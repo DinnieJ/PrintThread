@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jay/Desktop/thread/Main.cpp
+PrintThread.hpp
+/home/jay/Desktop/thread/PrintThread.hpp
+
+/home/jay/Desktop/thread/PrintThread.cpp
+PrintThread.hpp
+/home/jay/Desktop/thread/PrintThread.hpp
+
+/home/jay/Desktop/thread/PrintThread.hpp
+mutex
+-
+iostream
+-
+thread
+-
+
